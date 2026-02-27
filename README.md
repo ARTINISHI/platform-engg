@@ -1,10 +1,13 @@
-# SloopStash Docker kit
+
+# Docker IaC project
 
 
 ## Getting started
-Please refer to the [documentation](https://sloopstash.com/documentation/toolkit/container/docker/index.html) for detailed instructions on how to get started with SloopStash Docker kit.
+Please refer to the docker documentation.
 
 
 ## Get support
-- [Issues](https://github.com/sloopstash/kickstart-docker/issues)
-- [Contact us](https://sloopstash.com/contact.html)
+- [Issues](https://github.com/ARTINISHI/docker/issues)
+
+
+
